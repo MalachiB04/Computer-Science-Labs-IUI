@@ -44,12 +44,5 @@ while True:
         print("Try Again :) ")
     continue
 
-#area of circle
-def areaOfaCircle(radius):
-    a =math.pi * float(radius** 2)
-    return a
- 
-radius = 23
 
-print(areaOfaCircle)
 
